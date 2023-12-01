@@ -1,6 +1,6 @@
-# quotes_app
+# Harsh's Quotes_app
 
-A new Flutter project.
+A new Flutter quotes application.
 
 ## Getting Started
 
